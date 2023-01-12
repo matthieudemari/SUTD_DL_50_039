@@ -12,3 +12,9 @@
 **/data/*
 *.zip
 *.rar
+**/mnist
+**/mnist/
+**/mnist/*
+**/save
+**/save/
+**/save/*
