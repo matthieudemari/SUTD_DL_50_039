@@ -10,5 +10,8 @@
 **/data
 **/data/
 **/data/*
+**/MNIST
+**/MNIST/
+**/MNIST/*
 *.zip
 *.rar
