@@ -12,7 +12,7 @@ from numpy.random import randint as np_randint
 from numpy import cumsum as np_cumsum
 import pandas as pd
 
-# Internal libraries
+# Local imports
 # None
 
 

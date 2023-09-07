@@ -15,7 +15,7 @@ from numpy import mean as np_mean
 from numpy import array as np_array
 import pandas as pd
 
-# Internal libraries
+# Local imports
 from CandyMachines import *
         
         

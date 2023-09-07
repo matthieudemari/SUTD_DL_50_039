@@ -30,7 +30,7 @@ from numpy import meshgrid as np_mesh
 import pandas as pd
 from tqdm import tqdm
 
-# Internal libraries
+# Local imports
 from RandomCandyMachineGame import *
         
         

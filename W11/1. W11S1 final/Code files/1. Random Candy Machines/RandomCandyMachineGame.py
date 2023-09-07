@@ -13,7 +13,7 @@ from numpy import cumsum as np_cumsum
 import pandas as pd
 from tqdm import tqdm
 
-# Internal libraries
+# Local imports
 from CandyMachines import *
 from CandyAgents import *
 
