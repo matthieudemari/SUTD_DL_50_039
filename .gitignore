@@ -15,3 +15,6 @@
 **/MNIST/*
 *.zip
 *.rar
+**/__pycache__
+**/__pycache__/
+**/__pycache__/*
